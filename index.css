@@ -5,8 +5,10 @@ html {
     box-sizing: border-box;
 }
 body{
-    background-color: #222;
+    background-color: rgb(223, 217, 217);
 }
 nav {
     display: inline-block;
+    background-color: rgb(110, 110, 108);
+    color: black;
 }
