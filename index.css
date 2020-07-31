@@ -16,6 +16,7 @@ body {
     display: inline-block;
     background-color: rgb(134, 134, 132);
     color: black;
+    width: 100%;
 }
 .nav-logo{
     text-align: justify;
