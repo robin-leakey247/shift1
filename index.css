@@ -1,14 +1,33 @@
-
 html {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
 }
-body{
+
+body {
     background-color: rgb(223, 217, 217);
 }
-nav {
+
+.nav-container {
+    width: 100%;
+}
+
+.nav-tabs {
     display: inline-block;
     background-color: rgb(134, 134, 132);
     color: black;
+}
+.nav-logo{
+    text-align: justify;
+    width: 15%;
+    margin: 0 auto;
+}
+.full-tabs{
+    width: 75%;
+}
+.full-tabs a ::before{
+    margin-left: 0;
+}
+.full-tabs a ::after{
+    margin-right: 0;
 }
